@@ -9,3 +9,6 @@ Each time the program is run, a new password will be generated randomly. The pas
 
 ## Source
 [101computing.net](https://www.101computing.net/random-password-generator/)
+
+## Author
+Victor Brière
